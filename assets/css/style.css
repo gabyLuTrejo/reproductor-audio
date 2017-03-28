@@ -43,6 +43,7 @@ h1 {
     border: 6px solid #E97720;
 }
 
+/* Style input type=RANGE */
 input[type=range] {
   -webkit-appearance: none;
   margin: 10px 0;
